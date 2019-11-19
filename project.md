@@ -1,8 +1,15 @@
-#PPS#
-**Harshit garg**
-*class=IT*
-** 1921040**
-**PROJECT**
+ # PROGRAMMING FOR PROBLEM SOLVING ESC -18105
+ 
+ ## My Programs
+|                         |    |
+| --------------------   | --------------  |
+| Submitted by           | Harshit Garg    |
+| Roll Number            | 1921040        |
+| Branch                 | ITA2          |
+| Submitted to           | Er. RANJODH KAUR| 
+___________________________________
+
+
 ```c
  #include<stdio.h>
 int main()
