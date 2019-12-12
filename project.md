@@ -1,4 +1,4 @@
- ![](images/gndec_image.png)
+ ![Gndec Logo](https://github.com/harshitgarg3587/images/blob/master/gndec_image.png)
  # PROGRAMMING FOR PROBLEM SOLVING ESC -18105
  
  ## My Programs
