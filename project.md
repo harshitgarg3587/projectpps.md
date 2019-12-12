@@ -1,3 +1,4 @@
+ ![](images/gndec_image.png)
  # PROGRAMMING FOR PROBLEM SOLVING ESC -18105
  
  ## My Programs
