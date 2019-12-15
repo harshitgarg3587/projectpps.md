@@ -45,7 +45,7 @@ printf("%d\n",sum);
 return 0;
 }
 ```
-![Gndec Logo]((https://github.com/harshitgarg3587/images/blob/master/gndec_image.png)
+![](https://github.com/harshitgarg3587/images/blob/master/employer.png)
 ```c
 #include<stdio.h>
 int main()
