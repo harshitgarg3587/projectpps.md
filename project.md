@@ -13,9 +13,21 @@ ___________________________________
 |  S.No. |          Program Name                  |
 | -------| --------------  |
 | 1.     | Experience of Employees   |
-| 2.     |                             |
-| 3.     | ITA2          |
-| 4.     | Er. RANJODH KAUR| 
+| 2.     | Check whether given no. is even or odd                           |
+| 3.     | Construct a basic calculator using switch case          |
+| 4.     | Check whether given no. is positive or negative| 
+| 5.     | Check whether given no. is prime or not| 
+| 6.     | Print the table of entered no. using for loop|
+| 7.     | Convert Fahrenheit to Celsius|
+| 8.     | Add 100 to each element of an array|
+| 9.     | Print sum of all the elements of an array| 
+| 10.     | Multiply two functions using an array| 
+| 11.     | Er. RANJODH KAUR| 
+| 12.     | Er. RANJODH KAUR| 
+| 13.     | Er. RANJODH KAUR| 
+| 14.     | Er. RANJODH KAUR| 
+| 15.     | Er. RANJODH KAUR| 
+
 ```c
  #include<stdio.h>
 int main()
@@ -114,28 +126,7 @@ printf("You have entered value zero \n");
 return 0;
 }
 ```
-```c
-#include<stdio.h>
 
-int main()
-{
-
-int num;
-printf("Enter any number: \n");
-scanf("%d",&num);
-
-if(num>0)
-printf("%d is positive number \n",num );
-
-else if(num<0)
-printf("%d is negative number \n",num );
-
-else
-printf("You have entered value zero \n");
-
-return 0;
-}
-```
 ```c
 #include<stdio.h>
 int main()
