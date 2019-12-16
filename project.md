@@ -426,6 +426,7 @@ printf("no");
 }
 return 0;}
 ```
+![](https://github.com/harshitgarg3587/images/blob/master/armstrong.png)
 ```c
 #include<stdio.h>
 int main(){
