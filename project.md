@@ -63,6 +63,7 @@ printf("Given number %d is Odd \n",num);
 return 0;
 }
 ```
+![](https://github.com/harshitgarg3587/images/blob/master/odd_even.png)
 ```c
 #include<stdio.h>
 
@@ -105,7 +106,8 @@ void main()
   
 }
     ```
-    ```c
+    ![](https://github.com/harshitgarg3587/images/blob/master/calculator.png)
+```c
     #include<stdio.h>
 
 int main()
@@ -127,7 +129,7 @@ printf("You have entered value zero \n");
 return 0;
 }
 ```
-
+![](https://github.com/harshitgarg3587/images/blob/master/prime.png)
 ```c
 #include<stdio.h>
 int main()
@@ -158,23 +160,8 @@ break;
 return 0;
 }
 ```
-```c
-#include<stdio.h>
-int main()
-{
-int n,i,range;
-printf("Table of:");
-scanf("%d",&n);
-printf("Enter the  range:");
-scanf("%d",&range);
+![](https://github.com/harshitgarg3587/images/blob/master/table.png)
 
-for(i=1;i<=range;++i)
-{
-printf("%d X %d = %d\n",n,i,n*i);
-}
-return 0;
-}
-```
 ```c
 #include<stdio.h>
 int main()
@@ -209,6 +196,7 @@ printf("Number is not even\n");
 return 0;
 }
 ```
+
 ```c
 #include<stdio.h>
 
@@ -265,6 +253,7 @@ int main()
 }
 }
 ```
+![](https://github.com/harshitgarg3587/images/blob/master/multiply.png)
 ```c
 #include<stdio.h>
 float multi(float a,float b);
@@ -286,6 +275,7 @@ float multiple=a*b;
 return(multiple);
 }
 ```
+![](https://github.com/harshitgarg3587/images/blob/master/pyramid.png)
 ```c
 #include<stdio.h>
 int main()
