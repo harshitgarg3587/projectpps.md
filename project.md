@@ -21,12 +21,16 @@ ___________________________________
 | 7.     | Convert Fahrenheit to Celsius|
 | 8.     | Add 100 to each element of an array|
 | 9.     | Print sum of all the elements of an array| 
-| 10.     | Multiply two functions using an array| 
-| 11.     | Er. RANJODH KAUR| 
-| 12.     | Er. RANJODH KAUR| 
-| 13.     | Er. RANJODH KAUR| 
-| 14.     | Er. RANJODH KAUR| 
-| 15.     | Er. RANJODH KAUR| 
+| 10.    | Multiply two functions using an array| 
+| 11.    | Number Of rows of pyramid| 
+| 12.    | HCF| 
+| 13.    | LCM| 
+| 14.    | Matrix Multiplication| 
+| 15.    | To check whether number belongs to an array or not| 
+| 16.    | To check whether number is an armstrong number or not|
+| 17.    | Calculate sum upto "n" numbers|
+| 18.    | Average of five numbers|
+| 19.    | Performing Arithmetic Operations| 
 
 ```c
  #include<stdio.h>
