@@ -105,7 +105,7 @@ void main()
 }
   
 }
-    ```
+```
     ![](https://github.com/harshitgarg3587/images/blob/master/calculator.png)
 ```c
     #include<stdio.h>
