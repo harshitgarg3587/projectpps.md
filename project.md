@@ -13,6 +13,7 @@ ___________________________________
 |  S.No. |          Program Name                  |
 | -------| --------------  |
 | 1.     | Experience of Employees   |
+| 1.     | Accept a matrix and re-print it   |
 | 2.     | Check whether given no. is even or odd                           |
 | 3.     | Construct a basic calculator using switch case          |
 | 4.     | Check whether given no. is positive or negative| 
@@ -50,6 +51,27 @@ return 0;
 }
 ```
 ![](https://github.com/harshitgarg3587/images/blob/master/employer.png)
+```c
+#include<stdio.h>
+
+int main()
+{
+ int i,j,m,n,a[5][5];
+ printf("enter order of matrix : ");
+ scanf("%d%d",&m,&n);
+ printf("enter matrix elements:\n");
+ for(i=0;i<m;i++)
+ { for(j=0;j<n;j++)
+    scanf("%d",&a[i][j]);
+ }
+ for(i=0;i<m;i++)
+ { for(j=0;j<n;j++)
+   printf("%d",a[i][j]);
+   printf("\n");
+ }
+return 0;
+}
+```
 ```c
 #include<stdio.h>
 int main()
